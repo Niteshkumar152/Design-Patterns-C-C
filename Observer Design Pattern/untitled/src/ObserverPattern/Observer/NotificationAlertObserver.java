@@ -1,2 +1,5 @@
-package ObserverPattern.Observer;public interface NotificationAlertObserver {
+package ObserverPattern.Observer;
+
+public interface NotificationAlertObserver {
+    public void update();
 }
